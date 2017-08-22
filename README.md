@@ -1,2 +1,2 @@
 # TensorFlow_Learning
-TensorFlow深度学习框架系列教程
+个人TensorFlow深度学习框架系列教程
